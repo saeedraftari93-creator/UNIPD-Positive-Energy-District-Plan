@@ -1,2 +1,2 @@
 # UNIPD-Positive-Energy-District-Plan
-A strategic engineering action plan to transition the University of Padua (UNIPD) campus toward energy positivity through building retrofits, solar PV integration, and social feasibility analysis.
+A multidisciplinary engineering framework for achieving Positive Energy District (PED) status in high-density historic urban environments. This project integrates TABULA-based thermal modeling, €134.2M CAPEX financial structuring, and heritage-compliant solar PV integration for the University of Padua.
